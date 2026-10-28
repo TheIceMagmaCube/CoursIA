@@ -2502,15 +2502,15 @@
   },
   {
    "kind": "lean",
-   "fr": "MyIA.AI.Notebooks/SymbolicAI/Lean/galois_lean/Galois/AdicCompletionLocalRing.lean",
-   "en": "MyIA.AI.Notebooks/SymbolicAI/Lean/galois_lean/Galois/AdicCompletionLocalRing_en.lean",
+   "fr": "MyIA.AI.Notebooks/SymbolicAI/Lean/GALOIS/galois_lean/Galois/AdicCompletionLocalRing.lean",
+   "en": "MyIA.AI.Notebooks/SymbolicAI/Lean/GALOIS/galois_lean/Galois/AdicCompletionLocalRing_en.lean",
    "sha1_fr": "03071c5b55b415831b71fb2c4a3ebf933edae1d7",
    "sha1_en": "a29097efa84ced220594d21b948bc3897705cea4"
   },
   {
    "kind": "lean",
-   "fr": "MyIA.AI.Notebooks/SymbolicAI/Lean/galois_lean/Galois/LowerRamificationGroup.lean",
-   "en": "MyIA.AI.Notebooks/SymbolicAI/Lean/galois_lean/Galois/LowerRamificationGroup_en.lean",
+   "fr": "MyIA.AI.Notebooks/SymbolicAI/Lean/GALOIS/galois_lean/Galois/LowerRamificationGroup.lean",
+   "en": "MyIA.AI.Notebooks/SymbolicAI/Lean/GALOIS/galois_lean/Galois/LowerRamificationGroup_en.lean",
    "sha1_fr": "0d94d9f65927d087b82ef1f8033670061c54e738",
    "sha1_en": "7b7f80394bfc869c41560b49e48b9587bccb0d13"
   },
